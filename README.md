@@ -1,6 +1,6 @@
 # Capture disctinct network traffic
 
-Use this script to view distinct traffic from IPs and protocols in a running network.
+Use this script to view distinct traffic from IPs and protocols in a running network. Operating with Pyshark, a Wireshark wrapper for Python.
 
 ## Requirements
 
